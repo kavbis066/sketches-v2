@@ -1,0 +1,21 @@
+{
+  "name": "sketches",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.5",
+    "canvas-sketch-cli": "^1.11.15",
+    "canvas-sketch-util": "^1.10.0",
+    "color-interpolate": "^1.0.5",
+    "colormap": "^2.3.2",
+    "eases": "^1.0.8",
+    "riso-colors": "^1.0.1"
+  }
+}
