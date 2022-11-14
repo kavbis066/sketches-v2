@@ -18,5 +18,5 @@ canvas-sketch sketch-01 --output=output
 ```
 
 # how to save your patterns
-## For Mac press ⌘ + S and windows ctrl + S
-### PS: the above command works for both video and image output. In case of video, you need to press the same keys till the duration you want to save.
+For Mac press ⌘ + S and windows ctrl + S
+#### PS: the above command works for both video and image output. In case of video, you need to press the same keys till the duration you want to save.
